@@ -1,7 +1,7 @@
 # fpaa-adventure-demos
 Demos for Prof. Jennifer Hasler's RASP 3.0 FPAA architecture
 
-These demonstrations are for tor the RASP 3.0 FPAA architecture developed by Prof. Jennifer Hasler of Georgia Tech. The run in a Scilab/Xcos-based toolset her team developed. The current publically available tool runs in a VirtualBox Ubuntu image, which you can obtain here: https://hasler.ece.gatech.edu/FPAAtool/index.html
+These demonstrations are for the RASP 3.0 FPAA architecture developed by Prof. Jennifer Hasler of Georgia Tech. The run in a Scilab/Xcos-based toolset her team developed. The current publically available tool runs in a VirtualBox Ubuntu image, which you can obtain here: https://hasler.ece.gatech.edu/FPAAtool/index.html
 
 The password for the image is "reverse."
 
